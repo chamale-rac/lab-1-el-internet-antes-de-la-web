@@ -17,3 +17,15 @@ On a table is a nasty-looking knife.`
 
 ##### (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck?
 `Hello World!`
+
+##### (10 puntos) ¿Cómo pide auxilio una vaca paranoica?
+```text
+ _________
+< auxilio >
+ ---------
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
