@@ -14,3 +14,6 @@ On a table is a nasty-looking knife.`
 
 ##### (5 puntos) ¿Donde está ubicado en host bkj386?
 `bkj386         Institute of Total Disorganization    Canada`
+
+##### (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck?
+`Hello World!`
