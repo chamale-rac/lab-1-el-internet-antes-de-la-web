@@ -11,3 +11,6 @@ On a table is a nasty-looking knife.`
 
 ##### (10 puntos) Traduzcan la siguiente frase a clave morse
 `-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...`
+
+##### (5 puntos) ¿Donde está ubicado en host bkj386?
+`bkj386         Institute of Total Disorganization    Canada`
