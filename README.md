@@ -8,3 +8,6 @@ On a table is a nasty-looking knife.`
 
 ##### (5 puntos) Coloquen un ejemplo de un fnord
 `The Empire State Building is highest and the typewriter is cosmic.`
+
+##### (10 puntos) Traduzcan la siguiente frase a clave morse
+`-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...`
